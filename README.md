@@ -1,9 +1,10 @@
-## Hi there 👋
+;:###Boas Vindas ao meu perfil:😊![MuaKissGIF](https://github.com/user-attachments/assets/ea794e60-c78f-46af-a4b8-99208f507861)
 
-<!--
-**estudantealuraV10/estudantealurav10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Estou desenvolvendo Scratch e java script
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
