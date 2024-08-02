@@ -3,9 +3,10 @@
 
 Estou desenvolvendo Scratch e java script
 
+![](https://media1.tenor.com/m/7GyHsInT8uoAAAAC/naruto.gif)
 
-
-
+Sugestões para digitar aqui
+⬇️
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
